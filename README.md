@@ -62,3 +62,4 @@ Screenshots-
 ![Receipt](./receipt.png.png)
 
 Demo Video-
+[Watch Demo Video](https://youtu.be/uOZujiKkJgY?si=yUZeJ-v-HCQFh_yY)
