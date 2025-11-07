@@ -53,12 +53,12 @@ POST	                     /api/checkout	                         Mock checkout r
 Screenshots-
 
  Products Page
-![Products](./products.png)
+![Products](./product.png.png)
 
  Cart Page
-![Cart](./cart.png)
+![Cart](./cart.png.png)
 
  Checkout Receipt
-![Receipt](./receipt.png)
+![Receipt](./receipt.png.png)
 
 Demo Video-
